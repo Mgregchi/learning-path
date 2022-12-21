@@ -1,4 +1,4 @@
-# Introduction to Devops 
+# Introduction to Devops (Development and Operations) 
 
 On successful completion of this module you will be able to:
 
